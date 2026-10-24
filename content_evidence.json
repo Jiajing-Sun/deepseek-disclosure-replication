@@ -1,0 +1,246 @@
+{
+  "note": "Recomputed from coded documents and audited results; categories do not use returns.",
+  "c1_documents": 38,
+  "adoption_by_denied_dimension": [
+    {
+      "adoption": "Adopted or deployed",
+      "commercial_only": 8,
+      "equity_only": 2,
+      "both": 8,
+      "total": 18
+    },
+    {
+      "adoption": "Testing, adaptation or research",
+      "commercial_only": 0,
+      "equity_only": 2,
+      "both": 3,
+      "total": 5
+    },
+    {
+      "adoption": "Distribution, listing or hosting",
+      "commercial_only": 4,
+      "equity_only": 0,
+      "both": 0,
+      "total": 4
+    },
+    {
+      "adoption": "Explicit non-involvement",
+      "commercial_only": 0,
+      "equity_only": 0,
+      "both": 1,
+      "total": 1
+    },
+    {
+      "adoption": "Not stated",
+      "commercial_only": 5,
+      "equity_only": 2,
+      "both": 3,
+      "total": 10
+    }
+  ],
+  "broadest_commercial_and_equity_denials": 2,
+  "attention_reference_types": {
+    "rumor": 3,
+    "classification": 23,
+    "attention": 7,
+    "platform_question": 2,
+    "report_on_own_activity": 2,
+    "none": 1
+  },
+  "attention_reference_types_adopters": {
+    "classification": 14,
+    "attention": 4
+  },
+  "open_licence_statement": {
+    "documents": 12,
+    "adopters": 10
+  },
+  "no_service_agreement_statement": {
+    "documents": 11,
+    "adopters": 8
+  },
+  "t1_focal_filing_reports_adoption": 15,
+  "history_timing": [
+    {
+      "code": "000532",
+      "classification": "Restatement",
+      "earlier_date": "2025-02-05",
+      "event_date": "2025-02-06",
+      "sessions_before_event": 1
+    },
+    {
+      "code": "300078",
+      "classification": "Restatement",
+      "earlier_date": "2025-02-10",
+      "event_date": "2025-02-12",
+      "sessions_before_event": 2
+    },
+    {
+      "code": "301299",
+      "classification": "Restatement",
+      "earlier_date": "2025-01-07",
+      "event_date": "2025-02-05",
+      "sessions_before_event": 15
+    },
+    {
+      "code": "301396",
+      "classification": "Restatement",
+      "earlier_date": "2025-02-12",
+      "event_date": "2025-02-17",
+      "sessions_before_event": 3
+    },
+    {
+      "code": "301602",
+      "classification": "Scope update",
+      "earlier_date": "2025-02-06",
+      "event_date": "2025-02-18",
+      "sessions_before_event": 8
+    },
+    {
+      "code": "600186",
+      "classification": "Restatement",
+      "earlier_date": "2025-02-07",
+      "event_date": "2025-02-10",
+      "sessions_before_event": 1
+    },
+    {
+      "code": "603956",
+      "classification": "Scope update",
+      "earlier_date": "2025-02-10",
+      "event_date": "2025-02-13",
+      "sessions_before_event": 3
+    },
+    {
+      "code": "688158",
+      "classification": "Scope update",
+      "earlier_date": "2024-05-16",
+      "event_date": "2025-02-07",
+      "sessions_before_event": 176
+    },
+    {
+      "code": "688229",
+      "classification": "Scope update",
+      "earlier_date": "2025-02-10",
+      "event_date": "2025-02-13",
+      "sessions_before_event": 3
+    }
+  ],
+  "history_gap_median": 3,
+  "history_gap_within_20": 8,
+  "history_gap_within_8": 7,
+  "roles": {
+    "T1": {
+      "events": 28,
+      "dates": 12,
+      "precar_events": 27,
+      "precar": 35.17658603628119,
+      "ar0": 2.3732876561685146,
+      "car12": 8.342776369522701,
+      "car02": 10.716064025691217,
+      "car02_ci": [
+        1.929039392288552,
+        19.50308865909388
+      ],
+      "ar0_ci": [
+        -1.8715381583793549,
+        6.618113470716384
+      ],
+      "car12_ci": [
+        3.4341744469554922,
+        13.251378292089907
+      ]
+    },
+    "T1p": {
+      "events": 5,
+      "dates": 5,
+      "precar_events": 5,
+      "precar": 27.042611435075152,
+      "ar0": 5.001035733553862,
+      "car12": 7.454827709472919,
+      "car02": 12.455863443026782,
+      "car02_ci": [
+        0.9242161723086437,
+        23.987510713744918
+      ],
+      "ar0_ci": [
+        -0.855017862386509,
+        10.857089329494233
+      ],
+      "car12_ci": [
+        -4.574439609249755,
+        19.48409502819559
+      ]
+    },
+    "R": {
+      "events": 23,
+      "dates": 8,
+      "precar_events": 20,
+      "precar": 68.6322341450027,
+      "ar0": 1.8164819630757543,
+      "car12": -1.9248200223277327,
+      "car02": -0.10833805925197836,
+      "car02_ci": [
+        -7.28293437774363,
+        7.0662582592396745
+      ],
+      "ar0_ci": [
+        -2.931960442163822,
+        6.564924368315331
+      ],
+      "car12_ci": [
+        -5.873037985548284,
+        2.023397940892819
+      ]
+    },
+    "K": {
+      "events": 9,
+      "dates": 7,
+      "precar_events": 9,
+      "precar": 27.067223763418497,
+      "ar0": 2.0373134431796007,
+      "car12": -3.972965128683513,
+      "car02": -1.935651685503912,
+      "car02_ci": [
+        -10.401030826360438,
+        6.5297274553526155
+      ],
+      "ar0_ci": [
+        -5.269254786396117,
+        9.343881672755318
+      ],
+      "car12_ci": [
+        -12.803409179925396,
+        4.85747892255837
+      ]
+    },
+    "P": {
+      "events": 803,
+      "dates": 57,
+      "precar_events": 780,
+      "precar": 27.57637579609019,
+      "ar0": 0.5079268917773521,
+      "car12": -2.169848279013559,
+      "car02": -1.6619213872362069,
+      "car02_ci": [
+        -2.914879861198915,
+        -0.4089629132734987
+      ],
+      "ar0_ci": [
+        -0.16721089254436533,
+        1.1830646760990695
+      ],
+      "car12_ci": [
+        -3.341554041704308,
+        -0.9981425163228101
+      ]
+    }
+  },
+  "t1_minus_t1p": {
+    "diff": -1.739799417335571,
+    "ci": [
+      -16.390876822440852,
+      12.911277987769706
+    ],
+    "clusters": 12
+  }
+}

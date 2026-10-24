@@ -1,0 +1,137 @@
+[
+  {
+    "name": "daily_prices.jsonl",
+    "bytes": 28205537,
+    "sha256": "b68f0e50f509aae32e0fb771adb424f5bc0f17e309423c85b4d40d1557485503"
+  },
+  {
+    "name": "frame_daily_prices_raw.jsonl",
+    "bytes": 82518094,
+    "sha256": "cbddf4bdd271115d765f2888a440ba23a9535d26090a49154036a9b6f5dbddaa"
+  },
+  {
+    "name": "extended_firms_daily_prices_raw.jsonl",
+    "bytes": 593573,
+    "sha256": "b2d78b63dec559a400e4e152968c38e3269304cd13ef699b25b6212849da5c82"
+  },
+  {
+    "name": "csindex_H00985.jsonl",
+    "bytes": 80750,
+    "sha256": "5132b9aa43f1c7ce8543e2293f4ef8887a4871c436de9076db5019ac3a4e4991"
+  },
+  {
+    "name": "coding_documents.jsonl",
+    "bytes": 191148,
+    "sha256": "bfbbe38fb92931f6c2838881162c0e10c71e87fbe45804ba4e610a8a06a702b7"
+  },
+  {
+    "name": "events_candidate_firms.jsonl",
+    "bytes": 111835,
+    "sha256": "697de1de6eb97cb1f502cca5920bcc8e7872bf7bf8bbc77543df79879d13965d"
+  },
+  {
+    "name": "events_population.jsonl",
+    "bytes": 240131,
+    "sha256": "2daf250836de8dd037cf1c190cac0c2e5050636038a21b393bc2cc930f1cd218"
+  },
+  {
+    "name": "documents_candidate_firms_groups.jsonl",
+    "bytes": 35522,
+    "sha256": "f15ec45524c18a9a61ca07fcba7421ade46100a4604a014881c50a43b79381c3"
+  },
+  {
+    "name": "document_novelty.jsonl",
+    "bytes": 68232,
+    "sha256": "4939a2b73e81e6ce9f5373b015b6d39c268ca041b6d679ffeb5b64efe1d2dc17"
+  },
+  {
+    "name": "announcement_text_pages.json",
+    "bytes": 660065,
+    "sha256": "9092ea472d7266a611048f9c31013d028bf513a7a350cfe1efdd155d470e92aa"
+  },
+  {
+    "name": "ai_candidates.jsonl",
+    "bytes": 1223955,
+    "sha256": "347cb22f023c07291dde2d7ad4b9c4fdac0bf29e1bca4b4a95e7edccccab2c99"
+  },
+  {
+    "name": "frame_audit.json",
+    "bytes": 7963,
+    "sha256": "d317dd5073788bcf43f5458339ce24510b8398d72599944022709fd4ccdf919d"
+  },
+  {
+    "name": "screening_audit.json",
+    "bytes": 154,
+    "sha256": "c0bcfb5cc1f40ac466a2d3c52d6019cafa424f66ab081a1c30988039b86b7970"
+  },
+  {
+    "name": "frame_sohu_differences.jsonl",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "name": "population_ai_adjacent_docs.json",
+    "bytes": 875,
+    "sha256": "5466fb90b61b3cc1471c1d906a317383a9f81e128d3c5cf33602a23d99080a35"
+  },
+  {
+    "name": "extended_first_denials.jsonl",
+    "bytes": 8043,
+    "sha256": "c69699c71b0141e479e858af2a8cad20e095900b7d2b491adfa3ff3060e90155"
+  },
+  {
+    "name": "prior_record_review.json",
+    "bytes": 62152,
+    "sha256": "3cba3bae54919ee786a567b8fbe7e24441c927708e391001ad5c37dbee36d4db"
+  },
+  {
+    "name": "baseline_content_tables.json",
+    "bytes": 3756,
+    "sha256": "1e1a7e157aa3beb0ec7fc9195344c6a6f3a68dbf93b4eb02d5d7b9786f2fceaf"
+  },
+  {
+    "name": "baseline_main_results.json",
+    "bytes": 267711,
+    "sha256": "2c803f10421c32035e64e6c83d9dc50189f8304036dca10576d9f23653e5f55e"
+  },
+  {
+    "name": "baseline_event_level_returns.csv",
+    "bytes": 9976,
+    "sha256": "6da3b16e64229caa58b8a7f1f3b9f029e9f9fe4814e693e02d0dfdf23c57724c"
+  },
+  {
+    "name": "baseline_event_returns_candidate_firms.jsonl",
+    "bytes": 378846,
+    "sha256": "43fa8cd42a3d08134c90e2e9c5d024b8f4197261545868cd39d8f3b0f358f976"
+  },
+  {
+    "name": "baseline_event_returns_population.jsonl",
+    "bytes": 2053595,
+    "sha256": "534e6bc5ac094372d05bdc38a06026699db7f9d3a4f57a538520fef00f924bd4"
+  },
+  {
+    "name": "p_pool_qa_hits.jsonl",
+    "bytes": 405202,
+    "sha256": "c37c347342f9c985a263d56edb1b77999d4b27d1c68ff33afe05a3a35d7b647b"
+  },
+  {
+    "name": "p_pool_qa_flags.csv",
+    "bytes": 48443,
+    "sha256": "ab1727f2134e2805772d384228404dc04e98b492d7e88c6f2327cf4e9e31a6b0"
+  },
+  {
+    "name": "limit_streaks.csv",
+    "bytes": 52179,
+    "sha256": "c764e72a0fa3a3e85b9237e32d908de43886337b5be2683cdd7e7ca331434ec1"
+  },
+  {
+    "name": "extension_daily_prices_raw.jsonl",
+    "bytes": 1149508,
+    "sha256": "9ed07a5bf53ae35323744a461871729f29d1f742cd0f7947f821ee4f4fac6818"
+  },
+  {
+    "name": "extension_events.csv",
+    "bytes": 21567,
+    "sha256": "92b16e78a336e3245e3bce0fd10f9e3ebfe6eabb4ec17b9201804e1d00bae28d"
+  }
+]

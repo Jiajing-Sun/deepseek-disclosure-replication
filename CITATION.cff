@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "Please cite this code package and the associated manuscript when using these materials."
+type: software
+title: "DeepSeek disclosure: relationship scope and public histories — replication code"
+authors:
+  - family-names: Zhang
+    given-names: Xi
+  - family-names: Sun
+    given-names: Jiajing
+  - family-names: Wu
+    given-names: Junda
+version: 1.0.0
+date-released: 2026-10-24
+repository-code: "https://github.com/Jiajing-Sun/deepseek-disclosure-replication"
+license: MIT
+abstract: "Python analysis code and derived-data replication assets for Denying the Developer, Not the Technology: Relationship Scope and Cross-Channel Histories in Corporate AI Disclosure."

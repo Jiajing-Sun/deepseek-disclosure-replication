@@ -1,0 +1,101 @@
+[
+  {
+    "code": "000532",
+    "announcement_id": "1222460254",
+    "focal_display_date": "2025-02-06",
+    "classification": "Restatement",
+    "earlier_record": {
+      "date": "2025-02-05",
+      "source": "http://irm.cninfo.com.cn/newircs/question/getQuestionDetail?questionId=1917393962885173248",
+      "url": "http://irm.cninfo.com.cn/newircs/question/getQuestionDetail?questionId=1917393962885173248"
+    }
+  },
+  {
+    "code": "300078",
+    "announcement_id": "1222514004",
+    "focal_display_date": "2025-02-11",
+    "classification": "Restatement",
+    "earlier_record": {
+      "date": "2025-02-10",
+      "source": "https://www.cls.cn/detail/1938707",
+      "url": "https://www.cls.cn/detail/1938707"
+    }
+  },
+  {
+    "code": "301299",
+    "announcement_id": "1222448635",
+    "focal_display_date": "2025-01-27",
+    "classification": "Restatement",
+    "earlier_record": {
+      "date": "2025-01-07",
+      "source": "https://guba.eastmoney.com/interface/GetData.aspx (POST, form-urlencoded: path=question/api/Info/Search, param=code=301299&ps=100&p=2&qatype=1, env=2; post_id 1505501373, item page https://guba.eastmoney.com/news,301299,1505501373.html). Relayed before the cutoff by 每日经济新闻 at https://finance.sina.cn/2025-01-07/detail-ineecrwz8055448.d.html",
+      "url": "https://guba.eastmoney.com/interface/GetData.aspx (POST, form-urlencoded: path=question/api/Info/Search, param=code=301299&ps=100&p=2&qatype=1, env=2; post_id 1505501373, item page https://guba.eastmoney.com/news,301299,1505501373.html). Relayed before the cutoff by 每日经济新闻 at https://finance.sina.cn/2025-01-07/detail-ineecrwz8055448.d.html"
+    }
+  },
+  {
+    "code": "301396",
+    "announcement_id": "1222544329",
+    "focal_display_date": "2025-02-14",
+    "classification": "Restatement",
+    "earlier_record": {
+      "date": "2025-02-12",
+      "source": "https://irm.cninfo.com.cn/newircs/question/getQuestionDetail?questionId=1927896135171145728",
+      "url": "https://irm.cninfo.com.cn/newircs/question/getQuestionDetail?questionId=1927896135171145728"
+    }
+  },
+  {
+    "code": "301602",
+    "announcement_id": "1222558772",
+    "focal_display_date": "2025-02-17",
+    "classification": "Scope update",
+    "earlier_record": {
+      "date": "2025-02-06",
+      "source": "https://guba.eastmoney.com/news,301602,1513288950.html",
+      "url": "https://guba.eastmoney.com/news,301602,1513288950.html"
+    }
+  },
+  {
+    "code": "600186",
+    "announcement_id": "1222485178",
+    "focal_display_date": "2025-02-08",
+    "classification": "Restatement",
+    "earlier_record": {
+      "date": "2025-02-07",
+      "source": "https://guba.eastmoney.com/interface/GetData.aspx (POST path=question/api/Info/Search, param=code=600186&ps=100&p=1&qatype=1, env=2; referer https://guba.eastmoney.com/qa/qa_search.aspx?company=600186), record post_id 1514502175 (item page https://guba.eastmoney.com/news,600186,1514502175.html returned an identity-check page)",
+      "url": "https://guba.eastmoney.com/interface/GetData.aspx (POST path=question/api/Info/Search, param=code=600186&ps=100&p=1&qatype=1, env=2; referer https://guba.eastmoney.com/qa/qa_search.aspx?company=600186), record post_id 1514502175 (item page https://guba.eastmoney.com/news,600186,1514502175.html returned an identity-check page)"
+    }
+  },
+  {
+    "code": "603956",
+    "announcement_id": "1222524216",
+    "focal_display_date": "2025-02-13",
+    "classification": "Scope update",
+    "earlier_record": {
+      "date": "2025-02-10",
+      "source": "https://news.10jqka.com.cn/20250210/c665903481.shtml",
+      "url": "https://news.10jqka.com.cn/20250210/c665903481.shtml"
+    }
+  },
+  {
+    "code": "688158",
+    "announcement_id": "1222473848",
+    "focal_display_date": "2025-02-07",
+    "classification": "Scope update",
+    "earlier_record": {
+      "date": "2024-05-16",
+      "source": "https://guba.eastmoney.com/news,688158,1427287626.html (Eastmoney 问董秘 mirror of 上证e互动, post_id 1427287626; re-verified via guba GetData API POST path=question/api/Info/Search, param code=688158&ps=50&p=5&qatype=1, and via search-api-web.eastmoney.com wenDongMi record id 1427287626)",
+      "url": "https://guba.eastmoney.com/news,688158,1427287626.html (Eastmoney 问董秘 mirror of 上证e互动, post_id 1427287626; re-verified via guba GetData API POST path=question/api/Info/Search, param code=688158&ps=50&p=5&qatype=1, and via search-api-web.eastmoney.com wenDongMi record id 1427287626)"
+    }
+  },
+  {
+    "code": "688229",
+    "announcement_id": "1222524258",
+    "focal_display_date": "2025-02-13",
+    "classification": "Scope update",
+    "earlier_record": {
+      "date": "2025-02-10",
+      "source": "https://guba.eastmoney.com/interface/GetData.aspx (POST path=question/api/Info/Search; param=code=688229&ps=100&p=1&qatype=1; env=2), record post_id 1515028303 (item page https://guba.eastmoney.com/news,688229,1515028303.html)",
+      "url": "https://guba.eastmoney.com/interface/GetData.aspx (POST path=question/api/Info/Search; param=code=688229&ps=100&p=1&qatype=1; env=2), record post_id 1515028303 (item page https://guba.eastmoney.com/news,688229,1515028303.html)"
+    }
+  }
+]

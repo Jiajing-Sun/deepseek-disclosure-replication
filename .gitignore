@@ -1,0 +1,15 @@
+# Only release materials are eligible for tracking. Raw inputs and outputs stay external.
+*
+!/.gitignore
+!/*.py
+!/README.md
+!/METHODS.md
+!/DATA_DICTIONARY.md
+!/VALIDATION.md
+!/CITATION.cff
+!/LICENSE
+!/requirements.txt
+!/article_data.json
+!/content_evidence.json
+!/historical_evidence.json
+!/external_inputs_manifest.json
